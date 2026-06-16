@@ -5,7 +5,7 @@ Imagine a situation where you want to cross a busy highway with no intersections
 
 # Working Architecture
 
-<img width="1443" height="783" alt="Traffic Light Architecture drawio" src="https://github.com/user-attachments/assets/0719aebd-fdeb-44e0-a92e-c00c07ff3b72" />
+<img width="1503" height="783" alt="Traffic Light Architecture drawio1" src="https://github.com/user-attachments/assets/0a4f5654-5222-46cf-a572-3189eacb136c" />
 
 # Custom 3D Printed Enclosures
 
@@ -13,7 +13,8 @@ Imagine a situation where you want to cross a busy highway with no intersections
 
 # Circuit Diagram
 
-
+_Coming Soon_
 
 # Code Explanation For Master ESP32
 
+_Coming Soon_
